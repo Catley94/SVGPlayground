@@ -1,0 +1,101 @@
+body {
+    position: relative;
+    margin: 0;
+    padding: 0;
+}
+#svg8 {
+    border: 1px solid black;
+    z-index: 0;
+    width: 99vw;
+    height: 99vh;
+}
+
+.tailMidBottomLeft {
+    stroke-dasharray: 1430;
+    stroke-dashOffset: 1430;
+}
+
+.tailMidLeft {
+    stroke-dashArray: 601;
+    stroke-dashOffset: 601;
+}
+
+.tailTopLeft {
+    stroke-dashArray: 241;
+    stroke-dashOffset: 241;
+} 
+
+.tailRoot {
+    stroke-dasharray: 154;
+    stroke-dashOffset: 154;
+}
+
+.tailMid {
+    stroke-dasharray: 962;
+    stroke-dashOffset: 962;
+}
+
+.tailTop {
+    stroke-dasharray: 399;
+    stroke-dashOffset: 399;
+}
+
+/* .tribalContainerAndBody {
+    stroke-dasharray: 2600;
+    stroke-dashOffset: 2600;
+} */
+
+.bodyMain {
+    stroke-dasharray: 2762;
+    stroke-dashOffset: 2762;
+}
+
+.tribalBottomLeft {
+    stroke-dasharray: 732;
+    stroke-dashOffset: 732;
+}
+
+.tribalBottomMid {
+    stroke-dasharray: 130;
+    stroke-dashOffset: 130;
+}
+
+.tribalBottomRight {
+    stroke-dasharray: 534;
+    stroke-dashOffset: 534;
+}   
+
+.tribalMidRight {
+    stroke-dasharray: 777;
+    stroke-dashOffset: 777;
+}
+
+.tribalTopLeft {
+    stroke-dasharray: 931;
+    stroke-dashOffset: 931;
+}   
+
+.armLeftBottom {
+    stroke-dasharray: 643;
+    stroke-dashOffset: 643;
+}
+
+.armLeftTop {
+    stroke-dasharray: 824;
+    stroke-dashOffset: 824;
+}
+
+.armRightBottom {
+    stroke-dasharray: 119;
+    stroke-dashOffset: 119;
+}
+
+.armRightMid {
+    stroke-dasharray: 561;
+    stroke-dashOffset: 561;
+}
+
+.armRightTop {
+    stroke-dasharray: 660;
+    stroke-dashOffset: 660;
+}
